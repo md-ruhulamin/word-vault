@@ -1,0 +1,2 @@
+/mnt/D89C7AA09C7A7938/English/vocab_store/build/.cxx/debug/4a70703i/armeabi-v7a/CMakeFiles/edit_cache.dir
+/mnt/D89C7AA09C7A7938/English/vocab_store/build/.cxx/debug/4a70703i/armeabi-v7a/CMakeFiles/rebuild_cache.dir

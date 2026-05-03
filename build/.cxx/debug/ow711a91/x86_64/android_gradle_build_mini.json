@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/ruhul/Downloads/ruhul/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ruhul/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/mnt/D89C7AA09C7A7938/English/word-vault/word-vault/build/.cxx/debug/ow711a91/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ruhul/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/mnt/D89C7AA09C7A7938/English/word-vault/word-vault/build/.cxx/debug/ow711a91/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

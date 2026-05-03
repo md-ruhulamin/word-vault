@@ -1,0 +1,1 @@
+ /mnt/D89C7AA09C7A7938/English/word-vault/word-vault/.dart_tool/flutter_build/f8c1db26df130c6da5741d990fa9d537/native_assets.json: 

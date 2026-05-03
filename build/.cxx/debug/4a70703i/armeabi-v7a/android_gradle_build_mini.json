@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/ruhul/Downloads/ruhul/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ruhul/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/mnt/D89C7AA09C7A7938/English/vocab_store/build/.cxx/debug/4a70703i/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ruhul/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/mnt/D89C7AA09C7A7938/English/vocab_store/build/.cxx/debug/4a70703i/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
